@@ -1,1 +1,1 @@
-Conducted a detailed EDA to understand spending habits by calculating total spent, total received, monthly trends, top payees, and large transactions. It also includes advanced queries like moving averages and monthly top transactions.
+Conducted a detailed EDA to understand spending habits by calculating total spent, total received, monthly trends, top payees, and large transactions. It also includes advanced queries like moving averages and monthly top transactions Using MySql
